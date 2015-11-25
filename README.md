@@ -14,7 +14,7 @@ Generate a series of strings of 4 chars each.
 var AnyBase = require('anybase.js');
 
 var test = new AnyBase('ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789');
-var value = '';
+var value = 'AAAA';
 while (value.length < 5) {
     value = test.toString();
     console.log(value);
