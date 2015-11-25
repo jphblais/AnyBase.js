@@ -1,0 +1,27 @@
+{
+  "name": "anybase.js",
+  "version": "0.1.0",
+  "description": "Custom base numbers based on a provided dictionnary.  it's a work in progress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jphblais/AnyBase.js.git"
+  },
+  "keywords": [
+    "numbers",
+    "generator"
+  ],
+  "author": "Jean-Philippe Blais <jphblais@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jphblais/AnyBase.js/issues"
+  },
+  "homepage": "https://github.com/jphblais/AnyBase.js#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
