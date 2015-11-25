@@ -1,6 +1,6 @@
 {
   "name": "anybase.js",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Custom base numbers based on a provided dictionnary.  it's a work in progress.",
   "main": "index.js",
   "scripts": {
